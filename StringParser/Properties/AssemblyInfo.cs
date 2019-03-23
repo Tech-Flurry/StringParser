@@ -1,15 +1,14 @@
 ﻿using System.Reflection;
-using System.Runtime.CompilerServices;
 using System.Runtime.InteropServices;
 
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("StringParser")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyTitle("String Parser")]
+[assembly: AssemblyDescription("A String Parser genterate tokens by setting states and transitions of Deterministic Finite Automata (DFA).")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("StringParser")]
+[assembly: AssemblyCompany("The Sparkers")]
+[assembly: AssemblyProduct("String Parser")]
 [assembly: AssemblyCopyright("Copyright ©  2019")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
